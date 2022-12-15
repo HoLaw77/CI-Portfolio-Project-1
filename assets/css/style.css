@@ -56,14 +56,14 @@ header {
 
 /*printing image*/
 
-#printing-outer{
+#printing-outer {
 
 }
 
-#printing-image{
+#printing-image {
     height:600px;
     width: 100%;
-    background: url('../image/Gutenberg\ movabke\ type.webp');
+    background:url('../image/Gutenberg\ movabke\ type.webp');
 }
 /*footer */
 

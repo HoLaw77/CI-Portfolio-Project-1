@@ -50,10 +50,6 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
-.internal-link {
-    color: white;
-}
-
 .active {
     border-bottom: 1px solid #3a3a3a;
 }

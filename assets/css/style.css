@@ -54,6 +54,17 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/*printing image*/
+
+#printing-outer{
+
+}
+
+#printing-image{
+    height:600px;
+    width: 100%;
+    background: url('../image/Gutenberg\ movabke\ type.webp');
+}
 /*footer */
 
 footer{

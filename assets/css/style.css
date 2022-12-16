@@ -69,6 +69,19 @@ header {
     width: 100%;
     background:url('../image/movable\ type\ 2.jpeg') no-repeat center center;
 }
+/*biographical-information section*/
+#biographical-information {
+width: 200px;
+height: 100px;
+padding: 30px;
+margin: 0 auto;
+}
+#biographical-image { 
+    height: 1000px;
+    background:url('../image/Johannes\ Gutenberg.jpeg') no-repeat;
+    max-width: 100%;
+    object-fit: contain;
+}
 /*footer */
 
 footer{

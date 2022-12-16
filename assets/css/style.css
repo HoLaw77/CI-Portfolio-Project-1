@@ -69,6 +69,19 @@ header {
     width: 100%;
     background:url('../image/movable\ type\ 2.jpeg') no-repeat center center;
 }
+
+#printing-cover {
+    background-color: #fff;
+}
+
+#printing-cover, #printing-cover h2 {
+    color: #3a3a3a;
+    font-size: 130%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+}
 /*biographical-information section*/
 #biographical-information {
 width: 200px;
@@ -80,7 +93,9 @@ margin: 0 auto;
 #biographical-image { 
     height: 1000px;
     width: 100%;
-    background: url('../image/Gutenberg.jpg') no repeat center center;
+    background: url('../image/Gutenberg.jpg') no-repeat center center;
+    background-size: contain;
+    background-position: left;
 }
 
 #line-1 {

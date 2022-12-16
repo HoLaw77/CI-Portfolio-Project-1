@@ -78,9 +78,8 @@ margin: 0 auto;
 }
 #biographical-image { 
     height: 1000px;
-    background:url('../image/Johannes\ Gutenberg.jpeg') no-repeat;
+    background:url('../image/Gutenberg.jpg') no-repeat;
     max-width: 100%;
-    object-fit: contain;
 }
 /*footer */
 

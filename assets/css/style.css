@@ -88,6 +88,7 @@ width: 200px;
 height: 100px;
 padding: 30px;
 margin: 0 auto;
+text-align: right;
 }
 
 #biographical-image { 
@@ -99,19 +100,7 @@ margin: 0 auto;
     margin-top: 0;
 }
 
-#line-1 {
-    padding-top: 5%;
-    padding-right: 5%;
-    width: 33%;
-    float: right;
-}
 
-#line-2 {
-    padding-top: 5%;
-    padding-right: 5%;
-    width: 33%;
-    float: right;
-}
 /*footer */
 
 footer{

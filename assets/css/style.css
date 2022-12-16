@@ -76,10 +76,15 @@ height: 100px;
 padding: 30px;
 margin: 0 auto;
 }
+
 #biographical-image { 
-    height: 1000px;
-    background:url('../image/Gutenberg.jpg') no-repeat;
-    max-width: 100%;
+    
+}
+
+#line-1 {
+    padding-top: 30%;
+    width: 60%;
+    float: right;
 }
 /*footer */
 

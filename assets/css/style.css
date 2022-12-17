@@ -125,8 +125,15 @@ text-align: right;
 }
 
 #map-location {
- align-items: center;
+ align-items: left;
  text-align: center;
+ margin-left: 10px;
+}
+
+#map-location img{
+    align-items: right;
+    width: 750px;
+    height: 500px;
 }
 /*footer */
 

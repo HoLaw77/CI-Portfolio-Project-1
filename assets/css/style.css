@@ -100,7 +100,27 @@ text-align: right;
     margin-top: 0;
 }
 
+.flexbox-container {
+    display: flex;
+    flex-grow: 3;
+    flex-basis: auto;
+    background-color: #002147;
+    justify-content: space-around;
+}
 
+#text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 200px;
+    color: #fff;
+}
+
+#text-container{
+    text-align: left;
+    font-size: 130%;
+}
 /*footer */
 
 footer{

@@ -121,6 +121,7 @@ text-align: right;
 #text-container{
     text-align: left;
     font-size: 130%;
+    text-transform: capitalize;
 }
 /*footer */
 

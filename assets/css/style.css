@@ -95,10 +95,11 @@ text-align: right;
     height: 1000px;
     width: 100%;
     background: url('../image/Gutenberg.jpg') no-repeat center center;
-    background-size: 50%;
+    background-size: 60%;
     background-position: left;
     margin-top: 0;
     margin-left: 50px;
+    top: 20px;
 }
 
 .flexbox-container {
@@ -128,6 +129,7 @@ text-align: right;
  align-items: left;
  text-align: center;
  margin-left: 10px;
+ font-size: 200%;
 }
 
 #map-location img{

@@ -144,6 +144,17 @@ text-align: right;
 
 /*gallery*/
 
+#images{
+clear: both;
+line-height: 0;
+column-count: 2;
+column-gap: 0;
+}
+
+#images > img {
+width: 100%;
+}
+
 #video{
     align-items: center;
     text-align: center;

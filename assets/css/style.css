@@ -85,7 +85,7 @@ header {
 /*biographical-information section*/
 #biographical-information {
 width: 200px;
-height: 100px;
+height: 500px;
 padding: 30px;
 margin: 0 auto;
 text-align: right;
@@ -98,6 +98,13 @@ text-align: right;
     margin-left: 50px;
     top: 20px;
 }
+
+#biographical-image img {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 100px;
+}
+
 
 .flexbox-container {
     display: flex;

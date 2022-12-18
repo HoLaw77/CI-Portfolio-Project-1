@@ -141,6 +141,14 @@ text-align: right;
     width: 750px;
     height: 500px;
 }
+
+/*gallery*/
+
+#video{
+    align-items: center;
+    text-align: center;
+    font-size: 200%;
+}
 /*footer */
 
 footer{

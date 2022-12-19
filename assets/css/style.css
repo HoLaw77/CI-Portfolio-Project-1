@@ -165,6 +165,7 @@ width: 100%;
 #time-line h2{
     font-family: Lato, sans-serif;
     color: black;
+    size: 200%;
 }
 
 #origin {
@@ -173,6 +174,7 @@ width: 100%;
     text-align: justify;
     background: url(/assets/image/printing\ chinese.jpg) no-repeat center center;
     color: black;
+    letter-spacing: 2px;
 }
 
 #origin:hover {

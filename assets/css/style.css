@@ -168,11 +168,15 @@ width: 100%;
 }
 
 #origin {
-    width: 600px;
+    width: 610px;
     height: 380px;
-    text-align: center;
+    text-align: justify;
     background: url(/assets/image/printing\ chinese.jpg) no-repeat center center;
     color: black;
+}
+
+#origin:hover {
+    background-size: cover;
 }
 
 /*footer */

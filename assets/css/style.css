@@ -164,8 +164,9 @@ width: 100%;
 /*time-line*/
 #time-line h2{
     font-family: Lato, sans-serif;
-    color: black;
+    color: white;
     size: 200%;
+    text-align: center;
 }
 
 #origin {
@@ -173,7 +174,7 @@ width: 100%;
     height: 380px;
     text-align: justify;
     background: url(/assets/image/printing\ chinese.jpg) no-repeat center center;
-    color: black;
+    color: white;
     letter-spacing: 2px;
 }
 
@@ -181,6 +182,18 @@ width: 100%;
     background-size: cover;
 }
 
+#gutenberg{
+    width: 610px;
+    height: 380px;
+    text-align: justify;
+    background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#gutenberg:hover {
+    background-size: cover;
+}
 /*footer */
 
 footer{

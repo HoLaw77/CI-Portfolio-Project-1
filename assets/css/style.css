@@ -160,6 +160,42 @@ width: 100%;
     text-align: center;
     font-size: 200%;
 }
+
+/* Timeline */
+
+#time-line h2 {
+  font-family: Lato, sans-serif;
+  color: white;
+  top: 10px;
+  font-size: 200%;
+  margin-top: 20px;
+}
+
+#origin {
+    width: 600px;
+    height: 380px;
+    text-align: center;
+    background-color: transparent;
+    background: url(/assets/image/printing\ chinese.jpg) no-repeat center center;
+    color: white;
+}
+
+#origin:hover {
+    background-size: cover;
+}
+
+#gutenberg {
+    width: 600px;
+    height: 380px;
+    text-align: center;
+    background-color: transparent;
+    background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
+    color: white;
+}
+
+#gutenberg:hover {
+    background-size: cover;
+}
 /*footer */
 
 footer{

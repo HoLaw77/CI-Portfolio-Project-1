@@ -121,12 +121,12 @@ text-align: right;
     align-items: center;
     margin-right: 200px;
     color: #fff;
+    letter-spacing: 2px;
 }
 
 #text-container{
     text-align: left;
     font-size: 130%;
-    text-transform: capitalize;
 }
 
 #map-location {

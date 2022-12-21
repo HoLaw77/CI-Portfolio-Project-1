@@ -160,6 +160,32 @@ width: 100%;
     text-align: center;
     font-size: 200%;
 }
+
+/*time-line*/
+
+#time-line {
+ width: 600px;
+ height: 1000px;
+}
+
+#time-line h3 {
+font-family: Lato, sans-serif;
+font-size: 200%;
+color: white;
+text-align: center;
+}
+
+#origin {
+    height: 400px;
+    width: 500px;
+    background: url(/assets/image/printing\ chinese.jpg) no-repeat center center;
+    color: whitesmoke;
+}
+
+
+#origin:hover{
+    background-size: cover;
+}
 /*footer */
 
 footer{

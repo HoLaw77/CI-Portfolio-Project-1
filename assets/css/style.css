@@ -207,6 +207,15 @@ letter-spacing: 2px;
 #gutenberg:hover {
     background-size: cover;
 }
+
+#bible {
+    height: 400px;
+    width: 500px;
+    background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+}
 /*footer */
 
 footer{

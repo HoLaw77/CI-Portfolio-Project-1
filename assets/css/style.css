@@ -133,6 +133,11 @@ text-align: right;
     font-size: 130%;
 }
 
+#paragraph2{
+    align-items: left
+    ;
+}
+
 #map-location {
  align-items: left;
  text-align: center;

@@ -199,7 +199,7 @@ letter-spacing: 2px;
     background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
     color: white;
     letter-spacing: 2px;
-    text-align: center;
+    text-align: justify;
 }
 
 #gutenberg:hover {

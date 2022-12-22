@@ -194,12 +194,16 @@ letter-spacing: 2px;
 }
 
 #gutenberg {
-    height: 340px;
+    height: 400px;
     width: 500px;
     background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
     color: white;
     letter-spacing: 2px;
     text-align: center;
+}
+
+#gutenberg:hover {
+    background-size: cover;
 }
 /*footer */
 

@@ -193,10 +193,15 @@ letter-spacing: 2px;
 
 #origin h3 {
     padding-top: 20px;
+    background-color: rgba(128, 128, 128, 0.76);
+    color: black;
+    
 }
 
 #origin h4 {
     padding-top: 30px;
+    background-color: rgba(128, 128, 128, 0.76);
+    color: black;
 }
 
 #origin:hover{
@@ -207,16 +212,20 @@ letter-spacing: 2px;
     height: 400px;
     width: 500px;
     background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
-    color: white;
+    color: black;
     letter-spacing: 2px;
     text-align: center;
 }
 
 #gutenberg h3 {
     padding-top: 20px;
+    background-color: rgba(255, 228, 196, 0.356);
+    color: black;
 }
+
 #gutenberg h4 {
-padding-top: 60px;
+padding-top: 30px;
+background-color: rgba(255, 228, 196, 0.356);
 }
 #gutenberg:hover {
     background-size: cover;
@@ -226,17 +235,20 @@ padding-top: 60px;
     height: 400px;
     width: 500px;
     background: url(/assets/image/Gutenberg_Bible\,_on_display_at_the_Library_of_Congress.jpg) no-repeat center center;
-    color: white;
+    color: black;
     letter-spacing: 2px;
     text-align: center;
 }
 
 #bible h3 {
-    color: white;
+    color: black;
+    background-color: rgba(222, 184, 135, 0.738);
 }
 
 #bible h4 {
- padding-top: 40px;
+ padding-top: 20px;
+ color: black;
+ background-color: rgba(255, 228, 196, 0.837);
 }
 #bible:hover {
     background-size: contain;

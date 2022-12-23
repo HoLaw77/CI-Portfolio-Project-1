@@ -253,6 +253,28 @@ background-color: rgba(255, 228, 196, 0.356);
 #bible:hover {
     background-size: contain;
 }
+
+#catholicon {
+    height: 400px;
+    width: 500px;
+    background: url(/assets/image/Catholicon1499.jpg) no-repeat center center;
+    color: black;
+    letter-spacing: 2px;
+    text-align: center;   
+}
+
+#catholicon h3 {
+    color: black;
+    background-color: rgba(255, 228, 196, 0.903);
+}
+
+#catholicon h4 {
+    background-color: rgba(255, 228, 196, 0.903);
+}
+
+#catholicon:hover {
+    background-size: contain;
+}
 /*footer */
 
 footer{

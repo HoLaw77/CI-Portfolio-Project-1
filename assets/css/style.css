@@ -191,6 +191,14 @@ letter-spacing: 2px;
     text-align: center;
 }
 
+#origin h3 {
+    padding-top: 20px;
+}
+
+#origin h4 {
+    padding-top: 30px;
+}
+
 #origin:hover{
     background-size: cover;
 }
@@ -204,6 +212,12 @@ letter-spacing: 2px;
     text-align: center;
 }
 
+#gutenberg h3 {
+    padding-top: 20px;
+}
+#gutenberg h4 {
+padding-top: 60px;
+}
 #gutenberg:hover {
     background-size: cover;
 }
@@ -211,7 +225,7 @@ letter-spacing: 2px;
 #bible {
     height: 400px;
     width: 500px;
-    background: url(/assets/image/fust-johann-a95907-1024.jpg) no-repeat center center;
+    background: url(/assets/image/Gutenberg_Bible\,_on_display_at_the_Library_of_Congress.jpg) no-repeat center center;
     color: white;
     letter-spacing: 2px;
     text-align: center;
@@ -221,8 +235,11 @@ letter-spacing: 2px;
     color: white;
 }
 
+#bible h4 {
+ padding-top: 40px;
+}
 #bible:hover {
-    background-size: cover;
+    background-size: contain;
 }
 /*footer */
 

@@ -211,10 +211,18 @@ letter-spacing: 2px;
 #bible {
     height: 400px;
     width: 500px;
-    background: url(/assets/image/Johannes\ Gutenberg\ looking\ at\ printed\ paper.jpg) no-repeat center center;
+    background: url(/assets/image/fust-johann-a95907-1024.jpg) no-repeat center center;
     color: white;
     letter-spacing: 2px;
     text-align: center;
+}
+
+#bible h3 {
+    color: white;
+}
+
+#bible:hover {
+    background-size: cover;
 }
 /*footer */
 

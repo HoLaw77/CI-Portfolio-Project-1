@@ -87,6 +87,7 @@ header {
     position: absolute;
 }
 /*biographical-information section*/
+
 #biographical-information {
 width: 200px;
 height: 500px;
@@ -279,6 +280,28 @@ background-color: rgba(255, 228, 196, 0.356);
 
 #catholicon:hover {
     background-size: contain;
+}
+
+#development {
+    height: 400px;
+    width: 500px;
+    background: url(/assets/image/Schöffer_&_Fust_trademark00.jpg) no-repeat center center;
+    color: black;
+    letter-spacing: 2px;
+    text-align: center;  
+}
+
+#development:hover {
+    background-size: contain;
+}
+
+#development h3 {
+    color: black;
+    background-color: rgba(245, 245, 220, 0.916);
+}
+
+#development h4 {
+    background-color: rgba(245, 245, 220, 0.916);
 }
 /*footer */
 

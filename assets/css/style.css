@@ -117,7 +117,7 @@ text-align: right;
     justify-content: space-evenly;
 }
 
-.flexbox-container img {
+/*.flexbox-container img {
     width: 270px;
     height: 300px;
     padding-top: 10px;
@@ -136,7 +136,7 @@ text-align: right;
 #text-container{
     text-align: left;
     font-size: 130%;
-}
+}*/
 
 
 

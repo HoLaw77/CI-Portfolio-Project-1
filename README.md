@@ -1,108 +1,127 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Gutenberg and Printing
 
-Welcome HoLaw77,
+Gutenberg and Publishing is a historical website for general publics to know about the history of printing and the biography of Johannes Gutenberg.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Users can navigate through the website to look for biography, historical timeline, and gallery. The site targets students and other general public who would like to know more about the history of printing.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Photo from https://ui.dev/amiresponsive
 
-## Gitpod Reminders
+Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Navigation and The Header
 
-`python3 -m http.server`
+The Logo of the page is located at the top left corner of the page, using a Blackletter font of UnifrakturMaguntia to match the historical setting of the theme.
 
-A blue button should appear to click: _Make Public_,
+There are three navigation links at the top right corner of the page which are Home, Gallery, and Timeline which links to different section of the page. Each link is designed with their respective icon. 
 
-Another blue button should appear to click: _Open Browser_.
+The design of navigation not only conveys the structure of the page clearly to the user, but also arouses their interest to serve and learn about the theme.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Photo from https://ui.dev/amiresponsive
 
-A blue button should appear to click: _Make Public_,
+The printing-outer section
 
-Another blue button should appear to click: _Open Browser_.
+The printing-outer section use a photo of type pieces to set out the theme of printing history.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The Header uses a font colour of white to bring out the contrast when explaining the website is a historical website about Johannes Gutenberg and Printing.
 
-To log into the Heroku toolbelt CLI:
+Photo from https://ui.dev/amiresponsive
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The Biographical-information section
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+The Biographical-information section provides a brief summary of Johannes Gutenberg’s life, with his date and place of birth, and the time when he starts inventing. 
+The Biographical-information section also outlines the Invention and Legacy of Johannes Gutenberg.
 
-------
+Next to each paragraph, relevant photos are placed to add information and evidence about the appearance, invention and publication of Gutenberg for users’ reference.
 
-## Release History
+The Biographical-information section uses Oxford-Blue as background colour to match with the classical theme of printing history.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Photo from https://ui.dev/amiresponsive
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+The Map-Location section  
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The Map-Location gives details of Gutenberg Museum in Mainz Germany by embedding a Google map at the left of the section.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+A photo of the museum is located at the right of the section, next to the embedded map to provide extra information.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Above the map and photo, there is a call for action by recommending the users to visit the museum.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Photo from https://ui.dev/amiresponsive
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+The Footer 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The Footer encourages readers to contact the page by social media.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Photo from https://ui.dev/amiresponsive
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Gallery page
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Insert photos and portrayal of Gutenberg’s machine and other important figures.
+Insert YouTube video to demonstrate how the printing machine works
+Photo from https://ui.dev/amiresponsive
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Testing
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Bugs
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Validation Testing
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Deployment
 
-------
+Credit
 
-## FAQ about the uptime script
+Content
 
-**Why have you added this script?**
+The Code to make social media link and gallery page were taken from the CI Love Running Project
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+The biographical information of Johannes Gutenberg in Biographical-information section and time-line.html were from the below sources:
 
-**How will this affect me?**
+Winship, George Parker, Gutenberg to Plantin: An Outline of The Early History of Printing, Cambridge: Harvard University Press, 1926. 
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+M. Sophia Newman, “So, Gutenberg Didn’t Actually Invent Printing As We Know It
+On the Unsung Chinese and Korean History of Movable Type”, June 19, 2019, Literary Hub, https://lithub.com/so-gutenberg-didnt-actually-invent-the-printing-press/
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+History.com editors, “Printing Press- History”, May 7, 2018, History.com, https://www.history.com/topics/inventions/printing-press#:~:text=Goldsmith%20and%20inventor%20Johannes%20Gutenberg,use%20commercially%3A%20The%20Gutenberg%20press.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+Media
 
-**So….?**
+Icons are from font-awesome 
+https://fontawesome.com/
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+The Lato and UnifrakturMaguntia fonts are from Google fonts
+https://fonts.google.com/share?selection.family=Lato:wght@300%7CUnifrakturMaguntia
 
-**Can I opt out?**
+YouTube video
+Timeline, “The Medieval History that Changed the Course of History: The Machine that made us”, Timeline: World History Documentary, 25 Aug 2018, YouTube, https://www.youtube.com/watch?v=uQ88yC35NjI&t=1835s.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Photos reference
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+Index.html
 
-**Anything more?**
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/220px-Metal_movable_type.jpg
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+https://upload.wikimedia.org/wikipedia/commons/3/33/Gutenberg.jpg
 
----
+https://ak.picdn.net/shutterstock/videos/1059690029/thumb/1.jpg?ip=x480
 
-Happy coding!
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.historyofinformation.com%2Fdetail.php%3Fid%3D292&psig=AOvVaw1lJI6ExXDMC9__5b85PZgh&ust=1672152447194000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDK3rrDl_wCFQAAAAAdAAAAABAN
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maxpixel.net%2FSachsen-Good-Mountain-Museum-Germany-Europe-Mainz-2336308&psig=AOvVaw0BMnVwAMuvrxoa9KiJgsct&ust=1672152678177000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCE7aXEl_wCFQAAAAAdAAAAABAD
+
+Gallery.html:
+
+https://www.history.com/.image/t_share/MTU3ODc5MDg2NDM0NzU1OTEz/printing-press-2.jpg
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUuFpgDX5RVZ5LdJ0c30XqxQhpXz_ifi97w&usqp=CAU
+
+
+time-line.html
+
+https://t4.ftcdn.net/jpg/01/17/04/01/240_F_117040176_ZoHPL9kEFM33RAqCuWNMBASk6SYgEBtd.jpg
+
+https://cdn.britannica.com/70/74370-050-07DC0A6E/artist-visualization-workshop-proof-Johannes-Gutenberg-sheet.jpg
+
+https://thumbs.dreamstime.com/b/historic-gutenberg-bible-as-displayed-historic-washington-dc-glimpse-history-christianity-first-bible-108964909.jpg 
+
+https://upload.wikimedia.org/wikipedia/commons/8/80/Catholicon1499.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/f/fe/Sch%C3%B6ffer_%26_Fust_trademark00.jpg

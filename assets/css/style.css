@@ -146,6 +146,7 @@ text-align: right;
  margin-left: 10px;
  font-size: 200%;
  padding-top: 50px;
+ color: #002147;
 }
 
 #map-location img{
@@ -329,5 +330,5 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #002147;
 }

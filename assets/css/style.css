@@ -113,7 +113,15 @@ text-align: right;
    margin-left: 100px;
 }
 
-#biographical-row {
+#left-paragraph {
+ width: 400px;
+ height: 200px;
+ color: #fff;
+ padding-left: 5em;
+ padding-top: 4em;
+}
+
+.biographical-row {
     display: flex;
     flex-grow: 3;
     flex-basis: auto;

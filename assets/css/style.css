@@ -113,7 +113,7 @@ text-align: right;
    margin-left: 100px;
 }
 
-.flexbox-container {
+#biographical-row {
     display: flex;
     flex-grow: 3;
     flex-basis: auto;

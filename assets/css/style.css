@@ -108,14 +108,15 @@ text-align: right;
    margin-bottom: 10px;
    margin-left: 100px;
 }
-
-.flexbox-container {
-    display: flex;
-    flex-grow: 3;
+.left-column .right-column {
+    display: table-column;
+    column-width: auto;
     flex-basis: auto;
     background-color: #002147;
     justify-content: space-evenly;
 }
+
+
 
 /*.flexbox-container img {
     width: 270px;

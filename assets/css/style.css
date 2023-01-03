@@ -211,6 +211,9 @@ width: 100%;
 #time-line {
  width: 600px;
  height: 1000px;
+ display: flex;
+ flex-direction: row;
+ order: 5;
 }
 
 #time-line div {

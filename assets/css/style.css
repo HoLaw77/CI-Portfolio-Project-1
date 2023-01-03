@@ -177,7 +177,7 @@ text-align: right;
 
 
 #map-location {
- align-items: left;
+ align-items: center;
  text-align: center;
  margin-left: 10px;
  font-size: 200%;
@@ -185,12 +185,6 @@ text-align: right;
  color: #002147;
 }
 
-#map-location img{
-    align-items: right;
-    width: 750px;
-    height: 500px;
-    padding-top: 50px;
-}
 
 /*gallery*/
 

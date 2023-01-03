@@ -86,15 +86,11 @@ header {
     position: absolute;
 }
 /*biographical-information section*/
-#biographical-row {
-    width: 50%;
-    clear: both;
-}
 
 #biographical-information {
 width: 200px;
 height: 600px;
-padding: 30px;
+padding: 0;
 margin: 0 auto;
 text-align: right;
 }
@@ -103,7 +99,7 @@ text-align: right;
     height: 1000px;
     width: 100%;
     margin-top: 10px;
-    margin-left: 55px;
+   
     top: 20px;
 }
 

@@ -229,9 +229,6 @@ letter-spacing: 2px;
     color: white;
     letter-spacing: 2px;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 2;
 }
 
 #origin h3 {

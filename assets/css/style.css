@@ -142,12 +142,14 @@ text-align: right;
  width: 600px;
  height: 200px;
  color: #fff;
- padding-right: 7em;
+ padding-right: 2em;
  padding-top: 5em;
  padding-bottom: 1em;
  font-size: 130%;
  text-align: justify;
  letter-spacing: 2px;
+ flex: 0 0 auto;
+ width: 60%;
 }
 
 #paragraph-right-bottom {

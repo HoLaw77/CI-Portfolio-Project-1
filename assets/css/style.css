@@ -185,6 +185,9 @@ text-align: right;
  color: #002147;
 }
 
+#map-location img {
+padding-top: 50px;
+}
 
 /*gallery*/
 

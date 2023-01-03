@@ -217,6 +217,7 @@ width: 100%;
  flex-grow: 1;
 }
 
+
 #time-line h3 {
 font-family: Lato, sans-serif;
 font-size: 200%;
@@ -227,7 +228,7 @@ letter-spacing: 2px;
 
 #origin {
     height: 400px;
-    width: 100%;
+    width: 500px;
     background: url(/assets/image/chinese\ movable\ type.jpg) no-repeat center center;
     color: white;
     letter-spacing: 2px;

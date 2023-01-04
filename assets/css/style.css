@@ -124,8 +124,6 @@ text-align: right;
 
 .biographical-row {
     display: flex;
-    flex-grow: 3;
-    flex-basis: auto;
     background-color: #002147;
     justify-content: space-evenly;
 }

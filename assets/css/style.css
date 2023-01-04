@@ -339,6 +339,12 @@ background-color: rgba(255, 228, 196, 0.356);
 #development h4 {
     background-color: rgba(245, 245, 220, 0.916);
 }
+
+#spread {
+    height: 400px;
+    width: 500px;
+    background: url();
+}
 /*footer */
 
 footer{

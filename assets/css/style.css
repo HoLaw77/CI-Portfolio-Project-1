@@ -343,7 +343,19 @@ background-color: rgba(255, 228, 196, 0.356);
 #spread {
     height: 400px;
     width: 500px;
-    background: url();
+    background: url(../image/William\ Caxton\ printing\ press.jpg) no-repeat center center;
+}
+
+#spread:hover {
+    background-size: contain;
+}
+
+#spread h3 {
+background-color: rgba(255, 228, 196, 0.732);
+}
+
+#spread h4 {
+    background-color: rgba(255, 228, 196, 0.732);
 }
 /*footer */
 

@@ -228,19 +228,20 @@ letter-spacing: 2px;
     color: white;
     letter-spacing: 2px;
     text-align: center;
+    background: url(/assets/image/chinese\ movable\ type.jpg) no-repeat center center;
 }
 
 #origin h3 {
     padding-top: 20px;
     background-color: rgba(128, 128, 128, 0.76);
     color: black;
-    background: url(/assets/image/chinese\ movable\ type.jpg) no-repeat center center;
 }
 
 #origin h4 {
     padding-top: 30px;
     background-color: rgba(128, 128, 128, 0.76);
     color: black;
+    
 }
 
 #origin:hover{

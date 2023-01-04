@@ -101,6 +101,7 @@ text-align: right;
     margin-top: 10px;
     margin-left: 55px;
     top: 20px;
+    
 }
 
 #biographical-image img {
@@ -127,6 +128,8 @@ text-align: right;
     background-color: #002147;
     justify-content: space-evenly;
 }
+
+
 
 /*.flexbox-container img {
     width: 270px;

@@ -129,7 +129,9 @@ text-align: right;
     justify-content: space-evenly;
 }
 
-
+.biographical-row img {
+    align-items: center;
+}
 
 /*.flexbox-container img {
     width: 270px;

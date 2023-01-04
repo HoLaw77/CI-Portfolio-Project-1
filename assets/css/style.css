@@ -212,7 +212,8 @@ width: 100%;
  display: flex;
  flex-direction: row;
  position: absolute;
-
+ flex-wrap: wrap;
+ padding-right: auto;
 }
 
 

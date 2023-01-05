@@ -33,6 +33,7 @@ header {
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
+    color: #002147;
 }
 
 #logo, #menu{
@@ -105,7 +106,7 @@ text-align: right;
 }
 
 #biographical-image img {
-   padding-top: 10px;
+   padding-top: 15px;
    margin-bottom: 10px;
    margin-left: 50px;
    padding-left: 0px;
@@ -148,7 +149,7 @@ text-align: right;
  color: #fff;
  padding-right: 1em;
  padding-top: 5em;
- padding-bottom: 1em;
+ padding-bottom: 2em;
  font-size: 130%;
  text-align: justify;
  letter-spacing: 2px;

@@ -190,18 +190,29 @@ background-color: #002147;
 }
 
 
-#map-location h3 h4 {
+#map-location h4 {
 text-align: center;
  margin-left: 10px;
- font-size: 200%;
+ font-size: 130%;
  padding-top: 20px;
  color: #002147;
  font-weight: bold;
 }
 
+#map-location h3 {
+text-align: center;
+font-size: 200%;
+text-align: center;
+margin-left: 10px;
+font-size: 200%;
+padding-top: 20px;
+color: #002147;
+font-weight: bold;
+}
+
 #map-location iframe {
     padding-top: 20px;
-    padding-left: 80px;
+    padding-left: 60px;
 }
 
 #map-location h4 a{

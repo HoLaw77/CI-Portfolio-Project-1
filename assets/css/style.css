@@ -25,6 +25,7 @@ h1, h2{
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    font-weight: bold;
 }
 
 header {
@@ -40,6 +41,7 @@ header {
 
 #logo, #menu{
     line-height: 75px;
+    
 }
 
 #menu li {

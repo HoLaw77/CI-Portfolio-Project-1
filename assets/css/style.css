@@ -190,15 +190,18 @@ background-color: #002147;
 }
 
 
-#map-location {
- height: 600px;
- width: 100%;
- text-align: center;
+#map-location h3, h4 {
+text-align: center;
  margin-left: 10px;
  font-size: 200%;
- padding-top: 50px;
+ padding-top: 20px;
  color: #002147;
+ padding-bottom: 20px;
+ font-weight: bold;
 }
+
+
+
 
 
 /*gallery*/

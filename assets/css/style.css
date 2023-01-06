@@ -435,5 +435,23 @@ footer{
 /*media query*/
 
 @media screen and (max-width = 1200px){
+#biographical-information {
+    width: 66%;
+    height: 1200px;
+}    
+
+}
+
+@media screen and (max-width = 950px){
+    #menu {
+        float: left;
+    }
+    #biographical-information{
+        width: 66%;
+        height: 1200px;
+    }
+}
+
+@media screen and (max-width = 800px){
     
 }

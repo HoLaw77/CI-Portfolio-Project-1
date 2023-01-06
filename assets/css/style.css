@@ -94,11 +94,12 @@ header {
 /*biographical-information section*/
 
 #biographical-information {
-width: 200px;
+width: 100%;
 height: 600px;
 padding: 30px;
 margin: 0 auto;
 text-align: right;
+background-color: #002147;
 }
 
 #biographical-image { 
@@ -204,6 +205,8 @@ text-align: right;
 
 
 #map-location {
+ height: 600px;
+ width: 100%;
  align-items: center;
  text-align: center;
  margin-left: 10px;

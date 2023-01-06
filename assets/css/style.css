@@ -196,11 +196,18 @@ text-align: center;
  font-size: 200%;
  padding-top: 20px;
  color: #002147;
- padding-bottom: 20px;
  font-weight: bold;
 }
 
+#map-location iframe {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
 
+#map-location img {
+
+}
 
 
 

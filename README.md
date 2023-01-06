@@ -127,3 +127,6 @@ https://upload.wikimedia.org/wikipedia/commons/8/80/Catholicon1499.jpg
 https://upload.wikimedia.org/wikipedia/commons/f/fe/Sch%C3%B6ffer_%26_Fust_trademark00.jpg
 
 https://www.flickr.com/photos/shakespearesmonkey/16856130892
+
+row and column setting is from bootstrap grid 
+https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css

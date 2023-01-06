@@ -450,8 +450,11 @@ footer{
         width: 66%;
         height: 1200px;
     }
+    #images{
+        count: 2;
+    }
 }
 
 @media screen and (max-width = 800px){
-    
+
 }

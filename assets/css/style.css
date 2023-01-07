@@ -189,13 +189,17 @@ background-color: #002147;
     padding-right: 20px;
 }
 
+#map-location {
+    background: url(/assets/image/Altbau_Zum_Römischen_Kaiser_des_Gutenberg-Museums.jpg) no-repeat center center;
+    background-size: cover;
+}
 
 #map-location h4 {
 text-align: center;
  margin-left: 10px;
  font-size: 130%;
  padding-top: 20px;
- color: #002147;
+ color: #fff;
  font-weight: bold;
 }
 
@@ -206,29 +210,26 @@ text-align: center;
 margin-left: 10px;
 font-size: 200%;
 padding-top: 20px;
-color: #002147;
+color: #fff;
 font-weight: bold;
 }
 
 #map-location iframe {
     padding-top: 20px;
-    padding-left: 60px;
+    padding-left: 3em;
+    padding-right: 3em;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 3em;
 }
 
 #map-location h4 a{
     text-decoration: none;
-    color: #002147;
+    color: #fff;
 }
 
 #map-location h4 a:hover{
     color: red;
-}
-
-#gutenberg-museum {
-    vertical-align: unset;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
 }
 
 
@@ -434,39 +435,54 @@ footer{
 
 /*media query*/
 
-@media screen and (max-width = 1200px){
+@media screen and (max-width = 1100px){
+#menu li{
+    float: left;
+}     
 #biographical-information {
-    width: 66%;
+    width: 70%;
     height: 1200px;
     margin: 0 auto;
     padding: 0 auto;
 }    
 
+#left-bottom-image {
+ width: 240px;
+ height: 100%;
+}
+
 #map-location {
-    width: 66%;
+    display: unset;
+    width: 70%;
     height: 600px;
-    padding: 0 auto;
     column-count: 1;
+    padding: unset;
 }
 
 #map-locaton iframe {
     align-items:center;
-    padding-left: 70px;
+    padding: unset;
+    padding-left: 200px;
 }
 
 #gutenberg-museum {
     align-items: center;
-    padding: unset;
+    padding-left: 200px;
 }
 }
 
 @media screen and (max-width = 950px){
+    
     #menu a{
+        clear: left;
         float: left;
+        margin-left: 10px;
+
     }
     #biographical-information{
         width: 66%;
         height: 1200px;
+        column-count: 1;
     }
     #images{
         count: 2;

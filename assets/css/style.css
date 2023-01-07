@@ -263,7 +263,6 @@ width: 100%;
 #time-line {
  display: flex;
  flex-direction: row;
- position: absolute;
  flex-wrap: wrap;
 }
 
@@ -478,9 +477,6 @@ footer{
     padding: 0;
 }
 
-.social-media {
-    padding-top: 1000px;
-}
 }
 
 @media screen and (max-width: 970px) {

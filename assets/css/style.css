@@ -446,11 +446,12 @@ footer{
     width: 66%;
     height: 600px;
     padding: 0 auto;
+    column-count: 1;
 }
 
 #map-locaton iframe {
-    align-items: center;
-    padding: unset;
+    align-items:center;
+    padding-left: 70px;
 }
 
 #gutenberg-museum {

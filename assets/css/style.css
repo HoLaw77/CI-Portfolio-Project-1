@@ -439,7 +439,7 @@ footer{
 
 /*media query*/
 
-@media screen and (max-width = 1100px){
+@media screen and (max-width = 1100px) {
 #biographical-information {
     width: 70%;
     height: 1200px;

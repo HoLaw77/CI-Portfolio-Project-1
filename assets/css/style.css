@@ -236,6 +236,11 @@ font-weight: bold;
 
 /*gallery*/
 
+#gallery-heading{
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+}
 #images{
 clear: both;
 line-height: 0;

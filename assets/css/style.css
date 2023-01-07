@@ -472,6 +472,15 @@ footer{
     align-items: center;
     padding-left: 200px;
 }
+
+#time-line div {
+    width: 100%;
+    padding: 0;
+}
+
+.social-media {
+    padding-top: 1000px;
+}
 }
 
 @media screen and (max-width: 970px) {

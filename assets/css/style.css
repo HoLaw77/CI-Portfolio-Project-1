@@ -438,12 +438,29 @@ footer{
 #biographical-information {
     width: 66%;
     height: 1200px;
+    margin: 0 auto;
+    padding: 0 auto;
 }    
 
+#map-location {
+    width: 66%;
+    height: 600px;
+    padding: 0 auto;
+}
+
+#map-locaton iframe {
+    align-items: center;
+    padding: unset;
+}
+
+#gutenberg-museum {
+    align-items: center;
+    padding: unset;
+}
 }
 
 @media screen and (max-width = 950px){
-    #menu {
+    #menu a{
         float: left;
     }
     #biographical-information{

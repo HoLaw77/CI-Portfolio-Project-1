@@ -196,6 +196,7 @@ background-color: #002147;
 #map-location {
     background: url(/assets/image/Altbau_Zum_Römischen_Kaiser_des_Gutenberg-Museums.jpg) no-repeat center center;
     background-size: cover;
+    
 }
 
 #map-location h4 {
@@ -203,7 +204,6 @@ text-align: center;
  margin-left: 10px;
  font-size: 130%;
  padding-top: 20px;
- color: #fff;
  font-weight: bold;
 }
 
@@ -216,7 +216,9 @@ font-size: 200%;
 padding-top: 20px;
 color: #fff;
 font-weight: bold;
+letter-spacing: 4px;
 }
+
 
 #map-location iframe {
     padding-top: 20px;
@@ -224,7 +226,7 @@ font-weight: bold;
     padding-right: 3em;
     align-items: center;
     width: 100%;
-    padding-bottom: 3em;
+    padding-bottom: 6em;
 }
 
 #map-location h4 a{
@@ -235,7 +237,6 @@ font-weight: bold;
 #map-location h4 a:hover{
     color: red;
 }
-
 
 
 /*gallery*/
@@ -454,6 +455,8 @@ footer{
 #map-locaton iframe {
     align-items:center;
     padding: unset;
+    height: 300px;
+    
     
 }
 

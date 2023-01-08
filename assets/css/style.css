@@ -40,7 +40,7 @@ header {
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
-    color: #002147;
+    display: inline-flex;
 }
 
 #logo, #menu{

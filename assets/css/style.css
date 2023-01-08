@@ -454,7 +454,7 @@ footer{
 
 #map-locaton iframe {
     align-items:center;
-    padding: unset;
+    padding-top: 10px ;
     height: 300px;
     
     

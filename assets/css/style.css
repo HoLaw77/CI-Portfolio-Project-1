@@ -461,11 +461,6 @@ footer{
     padding-left: 200px;
 }
 
-#gutenberg-museum {
-    align-items: center;
-    padding-left: 200px;
-}
-
 #time-line div {
     width: 100%;
     padding: 0;
@@ -496,7 +491,7 @@ footer{
         column-count: 1;
         padding: 0;
     }
-    
+
     #images{
        
     }

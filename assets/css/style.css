@@ -483,6 +483,7 @@ footer{
         clear: both;
         float: left;
         margin-left: 10px;
+        display: inline;
 
     }
     #biographical-information{

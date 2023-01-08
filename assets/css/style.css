@@ -30,9 +30,12 @@ h1, h2{
 }
 
 header {
-    background-color: #002147;
+    background-color: #fff;
 }
+
+
 /* navigation link */
+
 
 #menu{
     font-size: 110%;
@@ -453,6 +456,7 @@ footer{
     height: 600px;
     column-count: 1;
     padding: unset;
+    background-size: cover;
 }
 
 #map-locaton iframe {
@@ -478,7 +482,14 @@ footer{
 }
 
 @media screen and (max-width: 990px) {
-     
+    
+    #title{
+        width: 100%;
+    }
+
+    #right-nav{
+        width: 100%;
+    }
     #menu li{
         clear: both;
         float: left;

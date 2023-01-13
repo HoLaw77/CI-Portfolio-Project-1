@@ -11,7 +11,7 @@ body{
     color: #3a3a3a;
 }
 
-/* headings and logos*/ 
+
 h1, h2{
     font-family: UnifrakturMaguntia, cursive;
     text-transform: capitalize;
@@ -31,7 +31,7 @@ header {
 }
 
 
-/* navigation link */
+
 
 
 #menu{
@@ -64,7 +64,7 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/*printing image*/
+
 
 #printing-outer {
     height:30vh;
@@ -93,7 +93,7 @@ header {
     position: absolute;
     font-weight: bold;
 }
-/*biographical-information section*/
+
 
 #biographical-information {
 width: 100%;
@@ -104,22 +104,7 @@ text-align: right;
 background-color: #002147;
 }
 
-/*#biographical-image { 
-    height: 1000px;
-    width: 100%;
-    margin-top: 10px;
-    margin-left: 55px;
-    top: 20px;
-    
-}
 
-#biographical-image img {
-   padding-top: 15px;
-   margin-bottom: 10px;
-   margin-left: 50px;
-   padding-left: 40px;
-}
-*/
 
 #left-top-paragraph {
  color: #fff;
@@ -150,12 +135,6 @@ background-color: #002147;
     justify-content: space-evenly;
 }
 
-/*.flexbox-container img {
-    width: 270px;
-    height: 300px;
-    padding-top: 10px;
-}
-*/
 
 
 #paragraph-right-top {
@@ -236,7 +215,7 @@ letter-spacing: 4px;
 }
 
 
-/*gallery*/
+
 
 #gallery-heading{
   text-align: center;
@@ -260,7 +239,7 @@ width: 100%;
     font-size: 200%;
 }
 
-/*time-line*/
+
 
 #time-line {
  display: flex;
@@ -414,7 +393,7 @@ background-color: rgba(255, 228, 196, 0.732);
     background-color: rgba(255, 228, 196, 0.732);
     text-align: center;
 }
-/*footer */
+
 
 footer{
     height: 150px;
@@ -438,7 +417,7 @@ footer{
     color: #002147;
 }
 
-/*media query*/
+
 
 @media screen and (max-width: 1200px) {
 

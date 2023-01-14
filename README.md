@@ -4,7 +4,7 @@ Gutenberg and Publishing is a historical website for general publics to know abo
 
 Users can navigate through the website to look for biography, historical timeline, and gallery. The site targets students and other general public who would like to know more about the history of printing.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/product-in-different-screen.png" alt="product in different screens size">
 
 Features
 
@@ -64,8 +64,28 @@ Testing
 Bugs
 
 Validation Testing
+<ul>
+<li>HTML: No error was found using official W3C Validator
+
+</li>
+<li>CSS: No error was found using official W3C Validator
+</li>
+<li>Accesssibility: I confirm colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools. </li>
+</ul>
+
+
+<img src="assets/documentation/lighthouse-audit-result.png" alt="lighthouse-audit-result">
 
 Deployment
+
+<ul>
+The page is deployed to github page, following the below steps.
+<li>Navigate to setting in Github page</li>
+<li>Select page and select main branch from the dropdown menu</li>
+<li>Once the link is deployed, the link is generated in Github page.</li>
+</ul>
+
+The link is here <a href="https://holaw77.github.io/CI-Portfolio-Project-1/">Gutenberg and Printing</a>
 
 Credit
 

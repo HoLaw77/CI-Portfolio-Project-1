@@ -511,6 +511,15 @@ footer{
 #biographical-information{
     height: 2000px;
 }
+
+#left-top-paragraph {
+    padding: unset;
+    letter-spacing: unset;
+}
+
+#biographical-image > img {
+    padding: unset;
+}
 }
 
 @media screen and (max-width: 320px) {

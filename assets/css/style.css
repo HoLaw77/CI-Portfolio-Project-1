@@ -500,7 +500,7 @@ footer{
 }
 
 @media screen and (max-width: 585px) {
- #biographical-image: {
-
- };
+ #biographical-image{
+ column-count: 1;
+ }
 }

@@ -518,8 +518,24 @@ footer{
 }
 
 #biographical-image > img {
+    align-items: center;
+}
+#left-paragraph {
+    padding: unset;
+    width: 100%;
+}
+
+#right-middle-image{
+    padding: unset;
+    width: 100%;
+}
+#gutenberg-bible > img{
+    height: 100%;
+    width: 270px;
     padding: unset;
 }
+#paragraph-right-bottom {
+    padding: unset;
 }
 
 @media screen and (max-width: 320px) {

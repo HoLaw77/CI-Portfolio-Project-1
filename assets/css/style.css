@@ -504,4 +504,9 @@ footer{
  column-count: 1;
  height: 2000px; 
 }
+
+#biographical-information img {
+    width: 100%;
+    height: auto;
+}
 }

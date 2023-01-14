@@ -532,7 +532,8 @@ footer{
 
 #gutenberg-bible > img{
     height: 100%;
-    width: auto;
+    width: 270px;
+    padding: unset;
 }
 #paragraph-right-bottom {
     padding: unset;

@@ -524,6 +524,11 @@ footer{
     padding: unset;
 }
 
+#right-middle-image{
+    padding: unset;
+    width: 100%;
+}
+
 #paragraph-right-bottom {
     padding: unset;
 }

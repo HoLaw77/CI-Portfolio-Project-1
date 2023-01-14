@@ -1,4 +1,4 @@
-<img src="/assets/documentation/website-logo.png" alt="Gutenberg and Publishing">
+<img src="assets/documentation/website-logo.png" alt="Gutenberg and Publishing">
 
 Gutenberg and Publishing is a historical website for general publics to know about the history of printing and the biography of Johannes Gutenberg.
 

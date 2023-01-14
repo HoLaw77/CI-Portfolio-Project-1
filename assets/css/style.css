@@ -489,9 +489,7 @@ footer{
     }
 
     #paragraph-right-bottom{
-        padding-top: 20em;
-        padding-inline-start: 0;
-        padding-left: unset;
+        padding: unset;
     }
 
     #images{

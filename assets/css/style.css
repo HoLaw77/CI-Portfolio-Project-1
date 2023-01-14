@@ -518,6 +518,7 @@ footer{
 
 #menu {
     padding: unset;
+    display: inline-block;
 }
 
 #left-paragraph {

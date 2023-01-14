@@ -494,7 +494,8 @@ footer{
     }
 
     #paragraph-right-bottom{
-        padding: unset;
+        padding-top: 20em;
+        padding-left: unset;
     }
 
     #images{

@@ -237,9 +237,11 @@ width: 100%;
     align-items: center;
     text-align: center;
     font-size: 200%;
-    width: 100%;
 }
 
+#video iframe {
+    width: 100%;
+}
 
 
 #time-line {

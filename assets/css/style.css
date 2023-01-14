@@ -530,7 +530,7 @@ footer{
     width: 100%;
 }
 
-#gutenberg-bible{
+#gutenberg-bible > img{
     height: 100%;
     width: auto;
 }

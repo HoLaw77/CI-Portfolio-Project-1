@@ -65,10 +65,10 @@ Bugs
 
 Validation Testing
 <ul>
-<li>HTML: No error was found using official W3C Validator
+<li>HTML: No error was found using official AppDevTools
 
 </li>
-<li>CSS: No error was found using official W3C Validator
+<li>CSS: No error was found using official AppDevTools
 </li>
 <li>Accesssibility: I confirm colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools. </li>
 </ul>

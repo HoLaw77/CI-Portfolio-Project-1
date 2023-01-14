@@ -506,7 +506,7 @@ footer{
 @media screen and (max-width: 320px) {
  #biographical-information{
  column-count: 1;
- height: 1800px; 
+ height: 2300px; 
  width: 100%;
  padding: unset;
 }

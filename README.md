@@ -16,7 +16,7 @@ There are three navigation links at the top right corner of the page which are H
 
 The design of navigation not only conveys the structure of the page clearly to the user, but also arouses their interest to serve and learn about the theme.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/navigation-and-header.png" alt="navigation and header">
 
 The printing-outer section
 
@@ -24,7 +24,7 @@ The printing-outer section use a photo of type pieces to set out the theme of pr
 
 The Header uses a font colour of white to bring out the contrast when explaining the website is a historical website about Johannes Gutenberg and Printing.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/printing-outer-section.png" alt="printing-outer section">
 
 The Biographical-information section
 
@@ -35,29 +35,46 @@ Next to each paragraph, relevant photos are placed to add information and eviden
 
 The Biographical-information section uses Oxford-Blue as background colour to match with the classical theme of printing history.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/biographical-information-section.png" alt="biographical-information section">
 
 The Map-Location section  
 
 The Map-Location gives details of Gutenberg Museum in Mainz Germany by embedding a Google map at the left of the section.
 
-A photo of the museum is located at the right of the section, next to the embedded map to provide extra information.
+A photo of the museum is located as background of the section to provide extra information.
 
-Above the map and photo, there is a call for action by recommending the users to visit the museum.
+Above the map and photo, there is a call for action by recommending the users to visit the museum with a link to the gutenberg ,museum.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/map-location-section.png" alt="map-location section">
 
 The Footer 
 
 The Footer encourages readers to contact the page by social media.
 
-Photo from https://ui.dev/amiresponsive
+<img src="assets/documentation/footer.png" alt="footer">
 
 Gallery page
 
 Insert photos and portrayal of Gutenberg’s machine and other important figures.
+
 Insert YouTube video to demonstrate how the printing machine works
-Photo from https://ui.dev/amiresponsive
+
+<img src="assets/documentation/gallery.png" alt="gallery">
+<img src="assets/documentation/Youtube-video.png" alt="Youtube video">
+
+Timeline page
+
+<ul>
+<li>Insert photos and interactive element by setting mouse hover animation using css.</li>
+<li>plotting the timeline of Gutenberg's invention and its influence in chronological order.</li>
+</ul>
+
+<img src="assets/documentation/timeline.png" alt="timeline.html">
+
+hover effect as follow (before and after)
+<br>
+<img src="assets/documentation/hover-before.png" alt="before hover">
+<img src="assets/documentation/hover-effect.png" alt="hover-effect">
 
 Testing
 

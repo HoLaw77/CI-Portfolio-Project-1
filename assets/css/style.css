@@ -530,6 +530,10 @@ footer{
     width: 100%;
 }
 
+#gutenberg-bible{
+    height: 100%;
+    width: auto;
+}
 #paragraph-right-bottom {
     padding: unset;
 }

@@ -502,5 +502,6 @@ footer{
 @media screen and (max-width: 585px) {
  #biographical-image{
  column-count: 1;
- }
+ height: 2000px; 
+}
 }

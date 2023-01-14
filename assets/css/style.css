@@ -497,6 +497,10 @@ footer{
     #images{
      column-count: 3;  
     }
+
+    #images >img {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 320px) {

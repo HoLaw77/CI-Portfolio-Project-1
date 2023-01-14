@@ -495,7 +495,7 @@ footer{
     }
 
     #images{
-       
+     column-count: 3;  
     }
 }
 

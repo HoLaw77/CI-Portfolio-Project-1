@@ -82,10 +82,9 @@ Bugs
 
 Validation Testing
 <ul>
-<li>HTML: No error was found using official Freeformatter.com
-
+<li>HTML: No error was found using official W3C Validator.
 </li>
-<li>CSS: No error was found using official Freeformatter.com
+<li>CSS: No error was found using official W3C Validator.
 </li>
 <li>Accesssibility: I confirm colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools. </li>
 </ul>

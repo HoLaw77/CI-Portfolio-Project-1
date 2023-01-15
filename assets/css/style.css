@@ -554,6 +554,7 @@ footer{
 #left-top-paragraph {
     padding: unset;
     letter-spacing: unset;
+    margin: auto;
 }
 
 #menu {

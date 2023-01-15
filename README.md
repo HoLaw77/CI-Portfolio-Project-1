@@ -53,7 +53,7 @@ Users can navigate through the website to look for biography, historical timelin
 
 <li>A photo of the museum is located as background of the section to provide extra information.</li>
 
-<li>Above the map and photo, there is a call for action by recommending the users to visit the museum with a link to the gutenberg ,museum.</li>
+<li>Above the map and photo, there is a call for action by recommending the users to visit the museum with a link to the gutenberg museum.</li>
 </ul>
 
 <img src="assets/documentation/map-location-section.png" alt="map-location section">

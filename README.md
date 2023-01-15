@@ -84,7 +84,8 @@ Users can navigate through the website to look for biography, historical timelin
 <li>Insert photos and interactive element by setting mouse hover animation using css.</li>
 <li>plotting the timeline of Gutenberg's invention and its influence in chronological order.</li>
 </ul>
-
+<br>
+<br>
 <img src="assets/documentation/timeline.png" alt="timeline.html">
 
 <h2>hover effect as follow (before and after)</h2>
@@ -94,6 +95,12 @@ Users can navigate through the website to look for biography, historical timelin
 
 <h1>Testing</h1>
 
+<ul>
+<li>I tested that this page works in different browser such as: Chrome, Microsoft-edge, Safari, Firefox.</li>
+<li>I confirmed the project is responsive, look goods and function on all standard size screen using devtool device tool bar.</li>
+</ul>
+<br>
+<br>
 <h1>Bugs</h1>
 <h2>Solve bug</h2>
 <ul>

@@ -6,63 +6,77 @@ Users can navigate through the website to look for biography, historical timelin
 
 <img src="assets/documentation/product-in-different-screen.png" alt="product in different screens size">
 
-Features
+<h1>Features</h1>
 
-Navigation and The Header
+<h1>Navigation and The Header</h1>
 
-The Logo of the page is located at the top left corner of the page, using a Blackletter font of UnifrakturMaguntia to match the historical setting of the theme.
+<ul>
+<li>The Logo of the page is located at the top left corner of the page, using a Blackletter font of UnifrakturMaguntia to match the historical setting of the theme.</li>
 
-There are three navigation links at the top right corner of the page which are Home, Gallery, and Timeline which links to different section of the page. Each link is designed with their respective icon. 
+<li>There are three navigation links at the top right corner of the page which are Home, Gallery, and Timeline which links to different section of the page. Each link is designed with their respective icon. </li>
 
-The design of navigation not only conveys the structure of the page clearly to the user, but also arouses their interest to serve and learn about the theme.
+<li>The design of navigation not only conveys the structure of the page clearly to the user, but also arouses their interest to serve and learn about the theme.</li>
+</ul>
 
 <img src="assets/documentation/navigation-and-header.png" alt="navigation and header">
 
-The printing-outer section
+<h1>The printing-outer section</h1>
 
-The printing-outer section use a photo of type pieces to set out the theme of printing history.
+<ul>
+<li>The printing-outer section use a photo of type pieces to set out the theme of printing history.</li>
 
-The Header uses a font colour of white to bring out the contrast when explaining the website is a historical website about Johannes Gutenberg and Printing.
+<li>The Header uses a font colour of white to bring out the contrast when explaining the website is a historical website about Johannes Gutenberg and Printing.</li>
+</ul>
 
 <img src="assets/documentation/printing-outer-section.png" alt="printing-outer section">
 
-The Biographical-information section
+<h1>The Biographical-information section</h1>
 
-The Biographical-information section provides a brief summary of Johannes Gutenberg’s life, with his date and place of birth, and the time when he starts inventing. 
-The Biographical-information section also outlines the Invention and Legacy of Johannes Gutenberg.
+<ul>
+<li>The Biographical-information section provides a brief summary of Johannes Gutenberg’s life, with his date and place of birth, and the time when he starts inventing.</li>
 
-Next to each paragraph, relevant photos are placed to add information and evidence about the appearance, invention and publication of Gutenberg for users’ reference.
+<li>The Biographical-information section also outlines the Invention and Legacy of Johannes Gutenberg.</li>
 
-The Biographical-information section uses Oxford-Blue as background colour to match with the classical theme of printing history.
+<li>Next to each paragraph, relevant photos are placed to add information and evidence about the appearance, invention and publication of Gutenberg for users’ reference.</li>
+
+<li>The Biographical-information section uses Oxford-Blue (#002147) as background colour to match with the classical theme of printing history.</li>
+</ul>
 
 <img src="assets/documentation/biographical-information-section.png" alt="biographical-information section">
 
-The Map-Location section  
+<h1>The Map-Location section</h1>  
 
-The Map-Location gives details of Gutenberg Museum in Mainz Germany by embedding a Google map at the left of the section.
+<ul>
+<li>The Map-Location gives details of Gutenberg Museum in Mainz Germany by embedding a Google map at the left of the section.</li>
 
-A photo of the museum is located as background of the section to provide extra information.
+<li>A photo of the museum is located as background of the section to provide extra information.</li>
 
-Above the map and photo, there is a call for action by recommending the users to visit the museum with a link to the gutenberg ,museum.
+<li>Above the map and photo, there is a call for action by recommending the users to visit the museum with a link to the gutenberg ,museum.</li>
+</ul>
 
 <img src="assets/documentation/map-location-section.png" alt="map-location section">
 
-The Footer 
+<h1>The Footer</h1> 
 
-The Footer encourages readers to contact the page by social media.
+<ul>
+<li>The Footer encourages readers to contact the page by social media.</li>
+</ul>
 
 <img src="assets/documentation/footer.png" alt="footer">
 
-Gallery page
+<h1>Gallery page</h1>
 
-Insert photos and portrayal of Gutenberg’s machine and other important figures.
+<ul>
 
-Insert YouTube video to demonstrate how the printing machine works
+<li>Insert photos and portrayal of Gutenberg’s machine and other important figures.</li>
+
+<li>Insert YouTube video to demonstrate how the printing machine works</li>
+<ul>
 
 <img src="assets/documentation/gallery.png" alt="gallery">
 <img src="assets/documentation/Youtube-video.png" alt="Youtube video">
 
-Timeline page
+<h1>Timeline page</h1>
 
 <ul>
 <li>Insert photos and interactive element by setting mouse hover animation using css.</li>
@@ -71,16 +85,16 @@ Timeline page
 
 <img src="assets/documentation/timeline.png" alt="timeline.html">
 
-hover effect as follow (before and after)
+<h2>hover effect as follow (before and after)</h2>
 <br>
 <img src="assets/documentation/hover-before.png" alt="before hover">
 <img src="assets/documentation/hover-effect.png" alt="hover-effect">
 
-Testing
+<h1>Testing</h1>
 
-Bugs
+<h1>Bugs</h1>
 
-Validation Testing
+<h1>Validation Testing</h1>
 <ul>
 <li>HTML: No error was found using official W3C Validator.
 </li>
@@ -92,7 +106,7 @@ Validation Testing
 
 <img src="assets/documentation/lighthouse-audit-result.png" alt="lighthouse-audit-result">
 
-Deployment
+<h1>Deployment</h1>
 
 <ul>
 The page is deployed to github page, following the below steps.
@@ -103,9 +117,9 @@ The page is deployed to github page, following the below steps.
 
 The link is here <a href="https://holaw77.github.io/CI-Portfolio-Project-1/">Gutenberg and Printing</a>
 
-Credit
+<h1>Credit</h1>
 
-Content
+<h2>Content</h2>
 
 The Code to make social media link and gallery page were taken from the CI Love Running Project
 
@@ -118,20 +132,20 @@ On the Unsung Chinese and Korean History of Movable Type”, June 19, 2019, Lite
 
 History.com editors, “Printing Press- History”, May 7, 2018, History.com, https://www.history.com/topics/inventions/printing-press#:~:text=Goldsmith%20and%20inventor%20Johannes%20Gutenberg,use%20commercially%3A%20The%20Gutenberg%20press.
 
-Media
+<h2>Media</h2>
 
-Icons are from font-awesome 
+<h3>Icons are from font-awesome</h3> 
 https://fontawesome.com/
 
-The Lato and UnifrakturMaguntia fonts are from Google fonts
+<h3>The Lato and UnifrakturMaguntia fonts are from Google fonts</h3>
 https://fonts.google.com/share?selection.family=Lato:wght@300%7CUnifrakturMaguntia
 
-YouTube video
+<h3>YouTube video</h3>
 Timeline, “The Medieval History that Changed the Course of History: The Machine that made us”, Timeline: World History Documentary, 25 Aug 2018, YouTube, https://www.youtube.com/watch?v=uQ88yC35NjI&t=1835s.
 
-Photos reference
+<h2>Photos reference</h2>
 
-Index.html
+<h3>Index.html</h3>
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/220px-Metal_movable_type.jpg
 
@@ -145,14 +159,14 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maxpixel.net%2FSachsen-Goo
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAltbau_Zum_R%25C3%25B6mischen_Kaiser_des_Gutenberg-Museums.jpg&psig=AOvVaw2X3T4BS5LilTBzq2z92i9A&ust=1673171543514000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi81_KXtfwCFQAAAAAdAAAAABAD
 
-Gallery.html:
+<h3>Gallery.html:</h3>
 
 https://www.history.com/.image/t_share/MTU3ODc5MDg2NDM0NzU1OTEz/printing-press-2.jpg
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUuFpgDX5RVZ5LdJ0c30XqxQhpXz_ifi97w&usqp=CAU
 
 
-time-line.html
+<h3>time-line.html</h3>
 
 https://t4.ftcdn.net/jpg/01/17/04/01/240_F_117040176_ZoHPL9kEFM33RAqCuWNMBASk6SYgEBtd.jpg
 
@@ -166,5 +180,6 @@ https://upload.wikimedia.org/wikipedia/commons/f/fe/Sch%C3%B6ffer_%26_Fust_trade
 
 https://www.flickr.com/photos/shakespearesmonkey/16856130892
 
-row and column setting is from bootstrap grid 
+<h3>Row and column setting is from bootstrap grid </h3>
+
 https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css

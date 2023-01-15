@@ -95,6 +95,11 @@ Users can navigate through the website to look for biography, historical timelin
 <h1>Testing</h1>
 
 <h1>Bugs</h1>
+<ul>
+<li>I discover that when I deploy my website to Github, some photos can not be display</li>
+<li>After discussing with tutor, I discover that it was because I have use absolute pathway when citing them from the assets folder</li>
+<li>Example would be the starting slash before assets in "/assets/image/" in the img element.</li>
+</ul>
 
 <h1>Validation Testing</h1>
 <ul>
@@ -115,6 +120,7 @@ The page is deployed to github page, following the below steps.
 <li>Navigate to setting in Github page</li>
 <li>Select page and select main branch from the dropdown menu</li>
 <li>Once the link is deployed, the link is generated in Github page.</li>
+
 </ul>
 
 The link is here <a href="https://holaw77.github.io/CI-Portfolio-Project-1/">Gutenberg and Printing</a>
@@ -123,7 +129,7 @@ The link is here <a href="https://holaw77.github.io/CI-Portfolio-Project-1/">Gut
 
 <h2>Content</h2>
 
-The Code to make social media link and gallery page were taken from the CI Love Running Project
+The Code to make social media link and gallery page were taken from the CI <a href="https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/08-responsive-elements/05-responsive-gallery">Love Running Project</a>
 
 The biographical information of Johannes Gutenberg in Biographical-information section and time-line.html were from the below sources:
 
@@ -137,13 +143,13 @@ History.com editors, “Printing Press- History”, May 7, 2018, History.com, ht
 <h2>Media</h2>
 
 <h3>Icons are from font-awesome</h3> 
-https://fontawesome.com/
+<a href="https://fontawesome.com/">https://fontawesome.com/</a>
 
 <h3>The Lato and UnifrakturMaguntia fonts are from Google fonts</h3>
-https://fonts.google.com/share?selection.family=Lato:wght@300%7CUnifrakturMaguntia
+<a href="https://fonts.google.com/share?selection.family=Lato:wght@300%7CUnifrakturMaguntia">https://fonts.google.com/share?selection.family=Lato:wght@300%7CUnifrakturMaguntia</a>
 
 <h3>YouTube video</h3>
-Timeline, “The Medieval History that Changed the Course of History: The Machine that made us”, Timeline: World History Documentary, 25 Aug 2018, YouTube, https://www.youtube.com/watch?v=uQ88yC35NjI&t=1835s.
+Timeline, “The Medieval History that Changed the Course of History: The Machine that made us”, Timeline: World History Documentary, 25 Aug 2018, YouTube, <a href="https://www.youtube.com/watch?v=uQ88yC35NjI&t=1835s">https://www.youtube.com/watch?v=uQ88yC35NjI&t=1835s</a>.
 
 <h2>Photos reference</h2>
 

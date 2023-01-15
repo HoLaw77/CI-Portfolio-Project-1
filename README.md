@@ -8,7 +8,7 @@ Users can navigate through the website to look for biography, historical timelin
 
 <img src="assets/documentation/product-in-different-screen.png" alt="product in different screens size">
 <img src="assets/documentation/product-in-different-screen-gallery.png" alt="gallery.html in different screen size">
-
+<img src="assets/documentation/product-in-different-screen-timeline.png" alt="timeline.html in different screen size">
 <h1>Features</h1>
 
 <h1>Navigation and The Header</h1>

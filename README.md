@@ -95,12 +95,14 @@ Users can navigate through the website to look for biography, historical timelin
 <h1>Testing</h1>
 
 <h1>Bugs</h1>
+<h2>Solve bug</h2>
 <ul>
 <li>I discover that when I deploy my website to Github, some photos can not be display</li>
 <li>After discussing with tutor, I discover that it was because I have use absolute pathway when citing them from the assets folder</li>
 <li>Example would be the starting slash before assets in "/assets/image/" in the img element.</li>
 </ul>
 
+<br>
 <h1>Validation Testing</h1>
 <ul>
 <li>HTML: No error was found using official W3C Validator.
@@ -122,9 +124,10 @@ The page is deployed to github page, following the below steps.
 <li>Once the link is deployed, the link is generated in Github page.</li>
 
 </ul>
-
+<br>
 The link is here <a href="https://holaw77.github.io/CI-Portfolio-Project-1/">Gutenberg and Printing</a>
-
+<br>
+<br>
 <h1>Credit</h1>
 
 <h2>Content</h2>

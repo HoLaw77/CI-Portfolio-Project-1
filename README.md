@@ -7,6 +7,7 @@ Gutenberg and Publishing is a historical website for general publics to know abo
 Users can navigate through the website to look for biography, historical timeline, and gallery. The site targets students and other general public who would like to know more about the history of printing.
 
 <img src="assets/documentation/product-in-different-screen.png" alt="product in different screens size">
+<img src="assets/documentation/product-in-different-screen-gallery.png" alt="gallery.html in different screen size">
 
 <h1>Features</h1>
 

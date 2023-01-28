@@ -579,4 +579,8 @@ footer{
 #paragraph-right-bottom {
     padding: unset;
 }
+
+.social-media {
+    clear: both;
+}
 }

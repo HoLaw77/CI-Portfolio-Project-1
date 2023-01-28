@@ -184,6 +184,14 @@ https://www.history.com/.image/t_share/MTU3ODc5MDg2NDM0NzU1OTEz/printing-press-2
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUuFpgDX5RVZ5LdJ0c30XqxQhpXz_ifi97w&usqp=CAU
 
+https://www.medieval.eu/the-medieval-world-and-the-middle-ages/
+
+https://en.wikipedia.org/wiki/Gutenberg_Bible#/media/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg
+
+https://www.history.com/news/printing-press-renaissance
+
+https://snl.no/Johann_Gutenberg
+
 
 <h3>time-line.html</h3>
 
